@@ -1,0 +1,17 @@
+my:
+   greetings: Hello World!
+   list.greetingsOfTheDay: Morning,Afternoon,Evening,Night
+  
+                     
+db.connectionString: http://localhost:8080
+db.username: abhishek
+db.password: abhi123
+  
+management.endpoints.web.exposure.include: "*"
+#activate profile throught CLI
+#java -jar spring-boot-config-0.0.1-SNAPSHOT.jar --spring.profiles.active=test
+#activate profile
+spring:
+  profiles:
+    active:
+    - test

@@ -1,0 +1,9 @@
+my.greetings= Hello World!
+my.list.greetingsOfTheDay= Morning,Afternoon,Evening,Night
+my.greetingsOfTheDay={morning= 'Good Morning',afternoon= 'Good Afternoon',evening= 'Good Evening', night= 'Good Night'}
+
+db.connectionString=http=//localhost=8080
+db.username=abhishek
+db.password=abhi123
+  
+management.endpoints.web.exposure.include=*

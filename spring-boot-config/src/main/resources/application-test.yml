@@ -1,0 +1,10 @@
+my:
+   greetings: Hello World! - test profile
+   list.greetingsOfTheDay: Sunday,Monday,Tuesday,Wednesday
+  
+                     
+db.connectionString: http://localhost:8080
+db.username: alpha
+db.password: alpha123
+  
+management.endpoints.web.exposure.include: "*"

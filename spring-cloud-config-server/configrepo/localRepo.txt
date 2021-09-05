@@ -1,0 +1,6 @@
+create local repo for cloud config server:
+1. create application.yml file
+2. git init
+3. git add .
+4. git commit -m "initial commit"
+5. provide the folder path to application.properties 

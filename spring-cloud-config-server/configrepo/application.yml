@@ -1,0 +1,8 @@
+my:
+   greetings: Hello World! - from config server
+   list.greetingsOfTheDay: Morning,Afternoon,Evening,Night
+  
+                     
+db.connectionString: http://localhost:9090
+db.username: abhishek
+db.password: abhi123
